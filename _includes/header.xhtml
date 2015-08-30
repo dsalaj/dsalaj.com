@@ -1,10 +1,19 @@
     <div id="nav">
       <ul>
+<!--
         <li><a class="active" href="/">home/</a></li>
         <li><a href="/persona/">persona/</a></li>
         <li><a href="/data/">data/</a></li>
         <li><a href="/uni/">uni/</a></li>
         <li><a href="/noise/">noise/</a></li>
+-->
+  {% for node in site.html_pages %}
+    {% if page.url == node.url %}
+      <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+    {% else %}
+      <li><a href="{{node.url}}">{{node.title}}</a></li>
+    {% endif %}
+  {% endfor %}
       </ul>
     </div>
 
