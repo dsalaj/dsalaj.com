@@ -138,7 +138,7 @@ a:hover {
 
 #glider {
   float: right;
-  display: block:
+  display: block;
 }
 
 #figure {
@@ -151,11 +151,9 @@ a:hover {
 }
 #figure img { 
   display: block;
-  image-rendering: optimizeSpeed;             /* FUCK SMOOTHING, GIVE ME SPEED  */
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
   image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
   border: 1px dotted #da0;
 }
@@ -268,7 +266,7 @@ dd {
     a:visited {
         text-decoration: underline;
     }
-
+/*
     a[href]:after {
         content: " (" attr(href) ")";
     }
@@ -276,7 +274,7 @@ dd {
     abbr[title]:after {
         content: " (" attr(title) ")";
     }
-
+*/
     .ir a:after,
     a[href^="javascript:"]:after,
     a[href^="#"]:after {
