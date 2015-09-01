@@ -7,20 +7,21 @@ permalink: /data/people/
 # People
 List of personal websites that I like:
 
-* http://www.sput.nl/~rob/
-* http://www.isthe.com/chongo/index.html
-* https://cs.uwaterloo.ca/~dtompkin/
-* http://pdimov.com/
-* http://www.drchip.org/astronaut/index.html
-* http://www.angelikalanger.com/
-* http://www.philippharb.at/#EN-cite-ref-JOANNEUM
-* http://www.dedoimedo.com/
-* http://www.benfrederickson.com/
-* http://ajf.me/
-* http://eli.thegreenplace.net/archives/all
-* http://www.voidrealms.com/index.php?r=site/index
-* http://enricozini.org/
-* http://www.joelonsoftware.com/
-* http://blog.codinghorror.com/about-me/
-* http://matt.might.net/
+* <http://matt.might.net/>
+* <https://cs.uwaterloo.ca/~dtompkin/>
+* <http://www.isthe.com/chongo/index.html>
+* <http://www.dedoimedo.com/>
+* <http://pdimov.com/>
+* <http://www.angelikalanger.com/>
+* <http://www.drchip.org/astronaut/index.html>
+* <http://www.benfrederickson.com/>
+* <http://www.joelonsoftware.com/>
+* <http://blog.codinghorror.com/about-me/>
+* <http://eli.thegreenplace.net/archives/all>
+* <http://enricozini.org/>
+* <http://ajf.me/>
+* <http://www.sput.nl/~rob/>
+* <http://www.voidrealms.com/index.php?r=site/index>
+* <http://www.philippharb.at/>
+* <http://lukas-prokop.at/>
 
