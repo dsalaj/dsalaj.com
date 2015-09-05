@@ -1,3 +1,4 @@
+<!--
     <div id="nav">
       <ul>
 
@@ -5,6 +6,19 @@
   {% assign group = 'navigation' %}
   {% include pages_list %}
 
+      </ul>
+    </div>
+-->
+    <div id="nav">
+      <ul>
+
+        {% assign current = page.url | downcase | split: '/' %}
+        <li><a href='/' {% if current[1] == null %}class='active'{% endif %}>home</a></li>
+        <li><a href='/uni/' {% if current[1] == 'uni' %}class='active'{% endif %}>uni</a></li>
+        <li><a href='/data/' {% if current[1] == 'data' %}class='active'{% endif %}>data</a></li>
+        <li><a href='/human/' {% if current[1] == 'human' %}class='active'{% endif %}>human</a></li>
+        <li><a href='/noise/' {% if current[1] == 'noise' %}class='active'{% endif %}>noise</a></li>
+  
       </ul>
     </div>
 
