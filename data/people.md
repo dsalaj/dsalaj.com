@@ -21,6 +21,7 @@ List of personal websites that I like:
 * <http://enricozini.org/>
 * <http://ajf.me/>
 * <http://www.sput.nl/~rob/>
+* <http://pddds.com/>
 * <http://www.voidrealms.com/index.php?r=site/index>
 * <http://www.philippharb.at/>
 * <http://lukas-prokop.at/>
