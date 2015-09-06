@@ -177,6 +177,15 @@ a:hover {
 #footer {
   display: block;
   position: relative;
+  font-size: 0.6em;
+}
+
+#valid {
+  width: 50%;
+  display: inline-block;
+}
+#valid a {
+  display: block;
 }
 
 .right {
@@ -243,7 +252,6 @@ dd {
 
 .time-stamp {
   display: inline;
-  font-size: 0.6em;
   right: 0em;
   top: -1.2em;
   position: absolute;
