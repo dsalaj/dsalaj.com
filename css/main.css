@@ -151,11 +151,13 @@ a:hover {
 }
 #figure img { 
   display: block;
+  border: 1px dotted #da0;
+
+  image-rendering: crisp-edges;
   image-rendering: -moz-crisp-edges;          /* Firefox                        */
   image-rendering: -o-crisp-edges;            /* Opera                          */
   image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  border: 1px dotted #da0;
 }
 #fig_caption {
   display: block;
