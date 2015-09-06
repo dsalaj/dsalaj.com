@@ -165,7 +165,6 @@ a:hover {
 }
 #figureb {
   display: inline-block;
-  float: right;
   border: 1px dotted #da0;
   margin: 0.2em 0em 0.2em 0.6em;
 }
