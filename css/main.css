@@ -154,8 +154,8 @@ a {color: #fff;background:#444;padding:1px 2px;text-decoration:none}
 a:hover {color:#fff;background:#333}
 
 /* Custom text-selection colors (remove any text shadows: http://twitter.com/miketaylr/status/12228805301) */
-::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
-::selection {background: #fcd700; color: #fff; text-shadow: none;}
+::-moz-selection{background: #444; color: #fff; text-shadow: none;}
+::selection {background: #444; color: #fff; text-shadow: none;}
 
 /*	j.mp/webkit-tap-highlight-color */
 a:link {-webkit-tap-highlight-color: #fcd700;}
@@ -188,7 +188,7 @@ textarea:-moz-placeholder { color:#a9a9a9; }
 }
 
 body {
-  max-width: 42em;
+  max-width: 38em;
   /*border: 1px solid #da0;*/
   margin: auto;
   padding: 1em;
@@ -399,3 +399,7 @@ dd {
 }
 
 hr {border-color: #333; border-style: dashed}
+
+#title {
+  margin: 0.2em 0 -0.4em;
+}
