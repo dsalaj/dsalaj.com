@@ -337,6 +337,7 @@ a:hover {
   color: #da0;
   font-size: 0.8em;
   font-weight: bold;
+  background: inherit;
 }
 
 .small {
