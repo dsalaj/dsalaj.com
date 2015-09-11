@@ -245,12 +245,6 @@ tbody th, tbody td {
   border: 1px dotted #333;
 }
 
-a {
-  text-decoration: none;
-}
-a:visited {
-  color: #da0;
-}
 a:hover {
   color: #000;
   border-bottom: 1px dotted;
