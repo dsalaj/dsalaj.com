@@ -203,11 +203,9 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  border-bottom: 1px dotted #b80;
+  border-bottom: 1px dotted #333;
   font-size: 1.2em;
-}
-h2, h3, h4 {
-  margin-bottom: 0px;
+  margin: 1.4em 0 0.6em;
 }
 h4 {
   margin-left: 1em;
@@ -244,7 +242,7 @@ table, th, td {
   font-size: 0.9em;
 }
 tbody th, tbody td {
-  border: 1px dotted #da0;
+  border: 1px dotted #333;
 }
 
 a {
@@ -320,6 +318,7 @@ a:hover {
   display: block;
   position: relative;
   font-size: 0.8em;
+  margin-top: 2em;
 }
 
 #valid {
@@ -372,8 +371,14 @@ dd {
   height: 28px; /* in order to match the height of audio player widget */
 }
 
+#uni a {
+  font-size: 0.8em;
+  color: #666;
+  background: inherit;
+}
 .progress { 
-  outline: 1px dotted #da0;
+  width: 100%;
+  outline: 1px dotted #333;
   text-align: center;
   padding: 2px;
 }
@@ -383,12 +388,12 @@ dd {
 }
 
 .progress-bar {
-  background-color: #da0;
+  background-color: #333;
 }
 
 .progress-text {
   display: inline; 
-  color: #000;
+  color: #fff;
 }
 
 .time-stamp {
