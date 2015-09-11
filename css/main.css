@@ -368,6 +368,10 @@ dd {
   margin-top: 0.2em;
 }
 
+.tracklist {
+  font-size: 1em;
+  margin-left: 2em;
+}
 .tracklist li {
   height: 28px; /* in order to match the height of audio player widget */
 }
