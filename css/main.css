@@ -353,21 +353,19 @@ dd {
 .track-todo {
   font-size: 0.8em;
 }
-
 .track-todo ul {
   list-style-type: square;
 }
-
 .track-todo h3{
   margin-top: 0.2em;
 }
-
 .tracklist {
   font-size: 1em;
   margin-left: 2em;
 }
-.tracklist li {
-  height: 28px; /* in order to match the height of audio player widget */
+.track {
+  width: 100%;
+  margin-top: 0.4em;
 }
 
 #uni a {
@@ -375,21 +373,19 @@ dd {
   color: #666;
   background: inherit;
 }
+
 .progress { 
   width: 100%;
   outline: 1px dotted #333;
   text-align: center;
   padding: 2px;
 }
-
 .progress + * {
   clear: left;
 }
-
 .progress-bar {
   background-color: #333;
 }
-
 .progress-text {
   display: inline; 
   color: #fff;
