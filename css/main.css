@@ -130,7 +130,7 @@ button,
 input[type=button] {width: auto; overflow: visible;}
 
 /* scale images in IE7 more attractively */
-.ie7 img {-ms-interpolation-mode: bicubic;}
+/*.ie7 img {-ms-interpolation-mode: bicubic;}*/
 
 /* prevent BG image flicker upon hover
    (commented out as usage is rare, and the filter syntax messes with some pre-processors)
@@ -140,7 +140,7 @@ input[type=button] {width: auto; overflow: visible;}
 /* let's clear some floats */
 .clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
 .clearfix:after { clear: both; }
-.clearfix { zoom: 1; }
+/*.clearfix { zoom: 1; }*/
 
 /* A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack */
 body {font: 13px Helmet, Freesans, sans-serif;}
@@ -154,18 +154,18 @@ a {color: #fff;background:#444;padding:1px 2px;text-decoration:none}
 a:hover {color:#fff;background:#333}
 
 /* Custom text-selection colors (remove any text shadows: http://twitter.com/miketaylr/status/12228805301) */
-::-moz-selection{background: #444; color: #fff; text-shadow: none;}
-::selection {background: #444; color: #fff; text-shadow: none;}
+/*::-moz-selection{background: #444; color: #fff; text-shadow: none;}*/
+/*::selection {background: #444; color: #fff; text-shadow: none;}*/
 
 /*	j.mp/webkit-tap-highlight-color */
-a:link {-webkit-tap-highlight-color: #fcd700;}
+/*a:link {-webkit-tap-highlight-color: #fcd700;}*/
 
 ins {background-color: #fcd700; color: #000; text-decoration: none;}
 mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
 
 /* Mozilla dosen't style placeholders by default */
-input:-moz-placeholder { color:#a9a9a9; }
-textarea:-moz-placeholder { color:#a9a9a9; }
+/*input:-moz-placeholder { color:#a9a9a9; }
+textarea:-moz-placeholder { color:#a9a9a9; }*/
 
 
 
@@ -247,9 +247,8 @@ tbody th, tbody td {
 }
 
 a:hover {
-  color: #000;
   border-bottom: 1px dotted;
-  background-color: #da0;
+  background-color: #000;
 }
 #footer a:hover{
   border-bottom: none;
