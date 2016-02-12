@@ -8,8 +8,8 @@ nav-order: 3
 
 <p>Sorry... nothing here for now</p>
 <p>Check out my <a href="https://github.com/dsalaj">github page</a>.</p>
-<p>List of personal websites that I like: <a href="people/">/data/people/</a></p>
 <!--
+<p>List of personal websites that I like: <a href="people/">/data/people/</a></p>
 <h1>Code Snippets</h1>
 <p>...</p>
 <h1>University Documents</h1>
@@ -19,4 +19,18 @@ nav-order: 3
 <h1>Books consumption page</h1>
 <p>Remote, 12 Habbits, The Martian, Effective C++, 97 Things every programmer 
 should know, ...</p>
+-->
+
+<!--
+<h2>Blog posts / Articles</h2>
+<p>My granded had Alzheimer's disease, so I am preparing by writing reminder 
+notes in from of blog posts or articles. If you are very forgetful like I am, 
+you might benifit from these</p>
+<ul id="uni">
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 -->

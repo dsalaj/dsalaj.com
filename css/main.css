@@ -188,7 +188,7 @@ textarea:-moz-placeholder { color:#a9a9a9; }*/
 }
 
 body {
-  max-width: 38em;
+  max-width: 48em;
   /*border: 1px solid #da0;*/
   margin: auto;
   padding: 1em;
@@ -207,8 +207,9 @@ h2 {
   font-size: 1.2em;
   margin: 1.4em 0 0.6em;
 }
-h4 {
-  margin-left: 1em;
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
 }
 
 .sub-h {
@@ -225,7 +226,7 @@ dt {
   margin-top: 0.2em;
 }
 
-ul {
+#nav ul {
   font-size: 1.2em;
   list-style: none;
   list-style-image: none;
@@ -233,6 +234,12 @@ ul {
 }
 li li {
   font-size: 0.8em;
+}
+.uni-files {
+  padding-left: 2em;
+}
+ul.uni-files {
+  list-style: square;
 }
 
 table {
