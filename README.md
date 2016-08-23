@@ -3,7 +3,6 @@ A personal website.
 
 ## TODO
 
+* Update CV
+* Make classes a collection
 * Make noise tracks a collection
-* Update CV and link in home
-* Make classes a collection (done and todo)
-
