@@ -62,6 +62,10 @@ html {overflow-y: scroll;}
 	which is fine because they're probably customized anyway */
 ul {list-style: none;}
 
+ul.posts, .post-content ul {list-style: square; padding-left: 1.2em; line-height: 1.6em;}
+ul.posts a {color: #333;background:inherit;padding:1px 4px;text-decoration:inherit;}
+ul.posts a:hover {color:#111;background:inherit;}
+
 blockquote, q {quotes: none;}
 
 blockquote:before,
