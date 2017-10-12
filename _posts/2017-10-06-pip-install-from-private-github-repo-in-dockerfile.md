@@ -27,7 +27,7 @@ to repository settings, *Deploy Keys* sidebar, *Add deploy key* button
 
 Since the key has only read rights, it is safe to push it to your repository.
 Next adapt your Dockerfile to copy the keys from the repository:
-``` Dockerfile
+``` dockerfile
 WORKDIR /root
 RUN mkdir /.ssh
 ADD local_repo/keys/repo-github-deploy-key /root/.ssh/repo-github-deploy-key
@@ -35,7 +35,7 @@ ADD local_repo/keys/repo-github-deploy-key.pub /root/.ssh/repo-github-deploy-key
 ```
 
 Finally start the ssh agent, add keys, and pip install like usual:
-``` Dockerfile
+``` dockerfile
 WORKDIR /code
 ADD local_repo/requirements_frozen.txt requirements.txt
 RUN \
