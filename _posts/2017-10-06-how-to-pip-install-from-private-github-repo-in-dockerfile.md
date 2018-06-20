@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pip install from private github repository in Dockerfile"
+title:  "How to pip install from private github repository in Dockerfile"
 date:   2017-10-04 09:58:00 +0100
 ---
 
