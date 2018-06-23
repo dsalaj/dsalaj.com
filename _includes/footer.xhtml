@@ -21,7 +21,13 @@
         </a>
       </div>
       <a id="glider" href="http://www.catb.org/hacker-emblem/">
-          <!--<img src="http://www.catb.org/hacker-emblem/glider.png" alt="hacker emblem the glider" />-->
-          {% include glider2.svg %}
+          {% if page.url == '/notes/' %}
+            <img src="/img/glider.gif" width='56' alt="hacker emblem the glider" />
+          {% else %}
+            {% include glider2.svg %}
+          {% endif %}
+          {% comment %}
+          <img src="http://www.catb.org/hacker-emblem/glider.png" alt="hacker emblem the glider" />
+          {% endcomment %}
       </a>
     </div>
