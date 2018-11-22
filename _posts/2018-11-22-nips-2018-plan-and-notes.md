@@ -16,7 +16,15 @@ Breakfast and lunch are not provided.
 
 ## Sunday, 2.12.2018  NIPS EXPO ([full schedule](https://nips.cc/Conferences/2018/ExpoSchedule))
 
-TODO
+- 8:00 - 9:00 am Alibaba Group, Room 511E:  Video Understanding in Youku
+- 9:00 - 10:00 am Capital One Services, Room 517D: Eno's Deep Learning-Powered Natural Language Understanding
+- 10:00 - 10:30 am Coffee break, Rooms 220A and 220B
+- 10:30 - 11:30 am Alibaba Group, Room 517D: AI at Alibaba
+- 11:30 - 12:30 am Ouster, Room 517D: Native Camera Imaging on LIDAR and Novel Deep Learning Enablement
+- 12:30 - 2:00 pm Lunch on your own
+- 2:00 - 3:00 pm Didi Chuxing, Room 517D:  DL and RL in Intelligent Transportation Systems
+- 3:00 - 4:00 pm Hudson River Trading, Room 517D: Inside the Black Box: Machine Learning and Optimization at HRT
+- 4:00 - 4:30 pm Coffee break, Rooms 220A and 220B
 
 ## Monday, 3.12.2018  Tutorials
 
@@ -27,48 +35,48 @@ Visualization for Machine Learning by Fernanda Viégas · Martin Wattenberg
 Unsupervised Deep Learning by **Alex Graves** · Marc'Aurelio Ranzato
 - **Tutorials Session 3** Mon Dec 3rd 02:30 -- 04:30 PM @ Room 220 CD  
 Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
-- 4:30 - 5:00 PM Coffee  break
+- 4:30 - 5:00 PM Coffee break
 - 5:00 - 5:30 PM Opening Remarks
-- 5:30 - 6:20 PM Invited Talk:  Laura Gomez
+- 5:30 - 6:20 PM Invited Talk: Laura Gomez
 - 6:30 - 8:30 PM Opening Reception
 
 ## Tuesday, 4.12.2018  Invited Talks, Papers and Demonstrations
-TODO
-8:30-9:20 - Invited Talk:  Ed Felten
-9:20 - 9:40 Test of Time Award
-9:40 - 10:05  Coffee break
-10:05-10:45   Parallel Tracks
-10:45 - 12:45 Posters A and Demonstrations
-12:45 - 2:15  Lunch on your own
-1:15 - 2:15   Town Hall Meeting, Room 517 CD
-2:15 - 3:05   Invited Talk:  Michael Levin
-3:05- 3:30  Coffee Break
-3:30 - 5:00  Parallel Tracks
-5:00 – 7:30   Posters B and Demonstrations
+
+8:30 - 9:20 Invited Talk:  Ed Felten  
+9:20 - 9:40 Test of Time Award  
+9:40 - 10:05 Coffee break  
+10:05 - 10:45 Parallel Tracks  
+10:45 - 12:45 Posters A and Demonstrations  
+12:45 - 2:15 Lunch on your own  
+1:15 - 2:15 Town Hall Meeting, Room 517 CD  
+2:15 - 3:05 Invited Talk:  Michael Levin  
+3:05 - 3:30 Coffee Break  
+3:30 - 5:00 Parallel Tracks  
+5:00 – 7:30 Posters B and Demonstrations  
 
 ## Wednesday, 5.12.2018  Invited Talks, Papers and Demonstrations
-TODO
-8:30-9:20 - Invited Talk:  Joelle Pineau
-9:20 - 9:45 Coffee break
-9:45 - 10:45 Parallel Tracks
-10:45 - 12:45 Posters A  and Demonstrations
-12:45 - 2:15  Lunch on your own
-2:15 - 3:05   Invited Talk:  Ayanna Howard
-3:05- 3:30  Coffee Break
-3:30 - 5:00  Parallel Tracks
-5:00 – 7:30   Posters B and Demonstrations
+
+8:30 - 9:20 Invited Talk:  Joelle Pineau  
+9:20 - 9:45 Coffee break  
+9:45 - 10:45 Parallel Tracks  
+10:45 - 12:45 Posters A  and Demonstrations  
+12:45 - 2:15 Lunch on your own  
+2:15 - 3:05 Invited Talk:  Ayanna Howard  
+3:05 - 3:30 Coffee Break  
+3:30 - 5:00 Parallel Tracks  
+5:00 – 7:30 Posters B and Demonstrations  
 
 ## Thursday, 6.12.2018  Invited Talks, Papers and Demonstrations
-TODO
-8:30-9:20 - Invited Talk:  David Spiegelhalter
-9:20 - 9:45 Coffee break 
-9:45 - 10:45 Parallel Tracks
-10:45 - 12:45 Posters A
-12:45 - 2:15  Lunch on your own 
-2:15 - 3:05   Invited Talk:  Kunle Olukotun
-3:05- 3:30  Coffee Break
-3:30 - 5:00  Parallel Tracks
-5:00 – 7:30   Posters B
+
+8:30 - 9:20 Invited Talk:  David Spiegelhalter  
+9:20 - 9:45 Coffee break   
+9:45 - 10:45 Parallel Tracks  
+10:45 - 12:45 Posters A  
+12:45 - 2:15 Lunch on your own   
+2:15 - 3:05 Invited Talk:  Kunle Olukotun  
+3:05 - 3:30 Coffee Break  
+3:30 - 5:00 Parallel Tracks  
+5:00 – 7:30 Posters B  
 
 ## Friday, 7.12.2018  Workshops ([full schedule](https://nips.cc/Conferences/2018/Schedule?type=Workshop))
 
