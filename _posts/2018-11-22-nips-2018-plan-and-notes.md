@@ -61,8 +61,7 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 3:50 - 4:05 Parallel Tracks: Generalisation of structural knowledge in the hippocampal-entorhinal system @ Room 220 CD  
 4:05 - 4:25 Parallel Tracks: @ Room 220 CDE  
 4:25 - 4:40 Parallel Tracks: A probabilistic population code based on neural samples @ Room 220 CD  
-            Parallel Tracks: How Does Batch Normalization Help Optimization? @ Room 220 E  
-4:25 - 4:40 Parallel Tracks: A probabilistic population code based on neural samples @ Room 220 CD  
+. . . . . . . Parallel Tracks: How Does Batch Normalization Help Optimization? @ Room 220 E  
 4:40 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B and Demonstrations  
 
@@ -84,14 +83,14 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 
 ## Thursday, 6.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=3)
 
-8:30 - 9:20 Invited Talk:  David Spiegelhalter  
+8:30 - 9:20 Invited Talk: David Spiegelhalter: Making Algorithms Trustworthy  
 9:20 - 9:45 Coffee break   
-9:45 - 10:45 Parallel Tracks  
+9:45 - 10:45 Parallel Tracks: @ Room 220 CDE and 517 CD  
 10:45 - 12:45 Posters A  
 12:45 - 2:15 Lunch on your own   
-2:15 - 3:05 Invited Talk:  Kunle Olukotun  
+2:15 - 3:05 Invited Talk: Kunle Olukotun: Designing Computer Systems for Software 2.0  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
+3:30 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B  
 
 ## Friday, 7.12.2018  [Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop)
