@@ -14,7 +14,7 @@ Breakfast and lunch are not provided.
 - 6:30 pm Monday reception in Room 220 AB and 210 ABCDEFGH
 - 6:30 pm Reception on Saturday evening reception in 220 ABCD and 210 ABCDEFGH
 
-## Sunday, 2.12.2018  NIPS EXPO ([full schedule](https://nips.cc/Conferences/2018/ExpoSchedule))
+## Sunday, 2.12.2018  [NIPS EXPO](https://nips.cc/Conferences/2018/ExpoSchedule)
 
 - 8:00 - 9:00 am Alibaba Group, Room 511E:  Video Understanding in Youku
 - 9:00 - 10:00 am Capital One Services, Room 517D: Eno's Deep Learning-Powered Natural Language Understanding
@@ -26,7 +26,7 @@ Breakfast and lunch are not provided.
 - 3:00 - 4:00 pm Hudson River Trading, Room 517D: Inside the Black Box: Machine Learning and Optimization at HRT
 - 4:00 - 4:30 pm Coffee break, Rooms 220A and 220B
 
-## Monday, 3.12.2018  Tutorials
+## Monday, 3.12.2018  [Tutorials](https://nips.cc/Conferences/2018/Schedule?day=0)
 
 - **Tutorials Session 1** Mon Dec 3rd 08:30 -- 10:30 AM @ Room 220 E  
 Visualization for Machine Learning by Fernanda Viégas · Martin Wattenberg
@@ -40,7 +40,7 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 - 5:30 - 6:20 PM Invited Talk: Laura Gomez
 - 6:30 - 8:30 PM Opening Reception
 
-## Tuesday, 4.12.2018  Invited Talks, Papers and Demonstrations
+## Tuesday, 4.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=1)
 
 8:30 - 9:20 Invited Talk: Ed Felten: Machine Learning Meets Public Policy: What to Expect and How to Cope  
 9:20 - 9:40 Test of Time Award  
@@ -66,19 +66,23 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 4:40 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B and Demonstrations  
 
-## Wednesday, 5.12.2018  Invited Talks, Papers and Demonstrations
+## Wednesday, 5.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=2)
 
 8:30 - 9:20 Invited Talk:  Joelle Pineau  
 9:20 - 9:45 Coffee break  
-9:45 - 10:45 Parallel Tracks  
+9:45 - 10:05 Parallel Tracks: @ Room 220 CDE and 517 CD  
+10:05 - 10:20 Parallel Tracks: Exploration in Structured Reinforcement Learning @ Room 220 CD  K
+10:20 - 10:45 Parallel Tracks: @ Room 220 CDE and 517 CD  
 10:45 - 12:45 Posters A  and Demonstrations  
 12:45 - 2:15 Lunch on your own  
-2:15 - 3:05 Invited Talk:  Ayanna Howard  
+2:15 - 3:05 Invited Talk: Ayanna Howard: Investigations into the Human-AI Trust Phenomenon  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
-5:00 – 7:30 Posters B and Demonstrations  
+3:30 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
+3:50 - 4:05 Parallel Tracks: Policy Optimization via Importance Sampling @ Room 220 CD  
+4:05 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
+5:00 – 7:30 Posters B (**our slot!**) and Demonstrations  
 
-## Thursday, 6.12.2018  Invited Talks, Papers and Demonstrations
+## Thursday, 6.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=3)
 
 8:30 - 9:20 Invited Talk:  David Spiegelhalter  
 9:20 - 9:45 Coffee break   
@@ -90,7 +94,7 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 3:30 - 5:00 Parallel Tracks  
 5:00 – 7:30 Posters B  
 
-## Friday, 7.12.2018  Workshops ([full schedule](https://nips.cc/Conferences/2018/Schedule?type=Workshop))
+## Friday, 7.12.2018  [Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop)
 
 All workshops are scheduled for: 08:00 AM -- 06:30 PM  
 10:30 – 11:00 Coffee break  
