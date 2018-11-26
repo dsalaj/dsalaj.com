@@ -42,16 +42,28 @@ Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 
 ## Tuesday, 4.12.2018  Invited Talks, Papers and Demonstrations
 
-8:30 - 9:20 Invited Talk:  Ed Felten  
+8:30 - 9:20 Invited Talk: Ed Felten: Machine Learning Meets Public Policy: What to Expect and How to Cope  
 9:20 - 9:40 Test of Time Award  
 9:40 - 10:05 Coffee break  
-10:05 - 10:45 Parallel Tracks  
+10:05 - 10:20 Parallel Tracks: On Neuronal Capacity  @ Room 220 CD  
+10:20 - 10:25 Parallel Tracks: Learning Overparameterized NNs via Stochastic GD on Structured Data @ Room 220 CD  
+10:25 - 10:30 Parallel Tracks: Size-Noise Tradeoffs in Generative Networks @ Room 220 CD  
+10:30 - 10:45 Parallel Tracks: A Retrieve-and-Edit Framework for Predicting Structured Outputs @ Room 220 E  
 10:45 - 12:45 Posters A and Demonstrations  
 12:45 - 2:15 Lunch on your own  
 1:15 - 2:15 Town Hall Meeting, Room 517 CD  
-2:15 - 3:05 Invited Talk:  Michael Levin  
+2:15 - 3:05 Invited Talk: Michael Levin: What Bodies Think About: Bioelectric Computation Outside the Nervous System, Primitive Cognition, and Synthetic Morphology  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
+3:30 - 3:35 Parallel Tracks: Evolved Policy Gradients @ Room 220 E  
+3:35 - 3:40 Parallel Tracks: Answerer in Questioner's Mind @ Room 220 CD  
+3:40 - 3:45 Parallel Tracks: Bayesian Model-Agnostic Meta-Learning @ Room 220 E  
+3:45 - 3:50 Parallel Tracks: Learning to Optimize Tensor Programs @ Room 220 CD  
+3:50 - 4:05 Parallel Tracks: Generalisation of structural knowledge in the hippocampal-entorhinal system @ Room 220 CD  
+4:05 - 4:25 Parallel Tracks: @ Room 220 CDE  
+4:25 - 4:40 Parallel Tracks: A probabilistic population code based on neural samples @ Room 220 CD  
+            Parallel Tracks: How Does Batch Normalization Help Optimization? @ Room 220 E  
+4:25 - 4:40 Parallel Tracks: A probabilistic population code based on neural samples @ Room 220 CD  
+4:40 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B and Demonstrations  
 
 ## Wednesday, 5.12.2018  Invited Talks, Papers and Demonstrations
