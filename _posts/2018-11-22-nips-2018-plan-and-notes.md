@@ -22,7 +22,7 @@ Breakfast and lunch are not provided.
 - 10:30 - 11:30 am Alibaba Group, Room 517D: AI at Alibaba
 - 11:30 - 12:30 am Ouster, Room 517D: Native Camera Imaging on LIDAR and Novel Deep Learning Enablement
 - 12:30 - 2:00 pm Lunch on your own
-- 2:00 - 3:00 pm Didi Chuxing, Room 517D:  DL and RL in Intelligent Transportation Systems
+- 2:00 - 3:00 pm (Facebook was full, NAVER I missed and got into wrong room) NETEASE, 511B:  Make reinforcement learning in touch with industry: An Efficient, Elastic and Extensive Reinforcement learning Framework
 - 3:00 - 4:00 pm Hudson River Trading, Room 517D: Inside the Black Box: Machine Learning and Optimization at HRT
 - 4:00 - 4:30 pm Coffee break, Rooms 220A and 220B
 
