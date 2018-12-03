@@ -28,8 +28,8 @@ Breakfast and lunch are not provided.
 
 ## Monday, 3.12.2018  [Tutorials](https://nips.cc/Conferences/2018/Schedule?day=0)
 
-- **Tutorials Session 1** Mon Dec 3rd 08:30 -- 10:30 AM @ Room 220 E  
-Visualization for Machine Learning by Fernanda Viégas · Martin Wattenberg
+- **Tutorials Session 1** Mon Dec 3rd 08:30 -- 10:30 AM @ Room 220 CD  
+Adversarial Robustness: Theory and Practice  
 - 10:30 - 11:00 AM Coffee Break
 - **Tutorials Session 2** Mon Dec 3rd 11:00 AM -- 01:00 PM @ Room 220 CD  
 Unsupervised Deep Learning by **Alex Graves** · Marc'Aurelio Ranzato
@@ -37,8 +37,8 @@ Unsupervised Deep Learning by **Alex Graves** · Marc'Aurelio Ranzato
 Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 - 4:30 - 5:00 PM Coffee break
 - 5:00 - 5:30 PM Opening Remarks
-- 5:30 - 6:20 PM Invited Talk: Laura Gomez
-- 6:30 - 8:30 PM Opening Reception
+- 5:30 - 6:20 PM Invited Talk: Laura Gomez: Accountability and Algorithmic Bias: Why Diversity and Inclusion Matters  
+- 6:30 - 8:30 PM Opening Reception  
 
 ## Tuesday, 4.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=1)
 
