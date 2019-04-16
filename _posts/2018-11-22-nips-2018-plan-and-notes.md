@@ -14,7 +14,7 @@ Breakfast and lunch are not provided.
 - 6:30 pm Monday reception in Room 220 AB and 210 ABCDEFGH
 - 6:30 pm Reception on Saturday evening reception in 220 ABCD and 210 ABCDEFGH
 
-## Sunday, 2.12.2018  NIPS EXPO ([full schedule](https://nips.cc/Conferences/2018/ExpoSchedule))
+## Sunday, 2.12.2018  [NIPS EXPO](https://nips.cc/Conferences/2018/ExpoSchedule)
 
 - 8:00 - 9:00 am Alibaba Group, Room 511E:  Video Understanding in Youku
 - 9:00 - 10:00 am Capital One Services, Room 517D: Eno's Deep Learning-Powered Natural Language Understanding
@@ -22,14 +22,14 @@ Breakfast and lunch are not provided.
 - 10:30 - 11:30 am Alibaba Group, Room 517D: AI at Alibaba
 - 11:30 - 12:30 am Ouster, Room 517D: Native Camera Imaging on LIDAR and Novel Deep Learning Enablement
 - 12:30 - 2:00 pm Lunch on your own
-- 2:00 - 3:00 pm Didi Chuxing, Room 517D:  DL and RL in Intelligent Transportation Systems
+- 2:00 - 3:00 pm (Facebook was full, NAVER I missed and got into wrong room) NETEASE, 511B:  Make reinforcement learning in touch with industry: An Efficient, Elastic and Extensive Reinforcement learning Framework
 - 3:00 - 4:00 pm Hudson River Trading, Room 517D: Inside the Black Box: Machine Learning and Optimization at HRT
 - 4:00 - 4:30 pm Coffee break, Rooms 220A and 220B
 
-## Monday, 3.12.2018  Tutorials
+## Monday, 3.12.2018  [Tutorials](https://nips.cc/Conferences/2018/Schedule?day=0)
 
-- **Tutorials Session 1** Mon Dec 3rd 08:30 -- 10:30 AM @ Room 220 E  
-Visualization for Machine Learning by Fernanda Viégas · Martin Wattenberg
+- **Tutorials Session 1** Mon Dec 3rd 08:30 -- 10:30 AM @ Room 220 CD  
+Adversarial Robustness: Theory and Practice  
 - 10:30 - 11:00 AM Coffee Break
 - **Tutorials Session 2** Mon Dec 3rd 11:00 AM -- 01:00 PM @ Room 220 CD  
 Unsupervised Deep Learning by **Alex Graves** · Marc'Aurelio Ranzato
@@ -37,48 +37,63 @@ Unsupervised Deep Learning by **Alex Graves** · Marc'Aurelio Ranzato
 Automatic Machine Learning by Frank Hutter · Joaquin Vanschoren
 - 4:30 - 5:00 PM Coffee break
 - 5:00 - 5:30 PM Opening Remarks
-- 5:30 - 6:20 PM Invited Talk: Laura Gomez
-- 6:30 - 8:30 PM Opening Reception
+- 5:30 - 6:20 PM Invited Talk: Laura Gomez: Accountability and Algorithmic Bias: Why Diversity and Inclusion Matters  
+- 6:30 - 8:30 PM Opening Reception  
 
-## Tuesday, 4.12.2018  Invited Talks, Papers and Demonstrations
+## Tuesday, 4.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=1)
 
-8:30 - 9:20 Invited Talk:  Ed Felten  
+8:30 - 9:20 Invited Talk: Ed Felten: Machine Learning Meets Public Policy: What to Expect and How to Cope  
 9:20 - 9:40 Test of Time Award  
 9:40 - 10:05 Coffee break  
-10:05 - 10:45 Parallel Tracks  
+10:05 - 10:20 Parallel Tracks: On Neuronal Capacity  @ Room 220 CD  
+10:20 - 10:25 Parallel Tracks: Learning Overparameterized NNs via Stochastic GD on Structured Data @ Room 220 CD  
+10:25 - 10:30 Parallel Tracks: Size-Noise Tradeoffs in Generative Networks @ Room 220 CD  
+10:30 - 10:45 Parallel Tracks: A Retrieve-and-Edit Framework for Predicting Structured Outputs @ Room 220 E  
 10:45 - 12:45 Posters A and Demonstrations  
 12:45 - 2:15 Lunch on your own  
 1:15 - 2:15 Town Hall Meeting, Room 517 CD  
-2:15 - 3:05 Invited Talk:  Michael Levin  
+2:15 - 3:05 Invited Talk: Michael Levin: What Bodies Think About: Bioelectric Computation Outside the Nervous System, Primitive Cognition, and Synthetic Morphology  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
+3:30 - 3:35 Parallel Tracks: Evolved Policy Gradients @ Room 220 E  
+3:35 - 3:40 Parallel Tracks: Answerer in Questioner's Mind @ Room 220 CD  
+3:40 - 3:45 Parallel Tracks: Bayesian Model-Agnostic Meta-Learning @ Room 220 E  
+3:45 - 3:50 Parallel Tracks: Learning to Optimize Tensor Programs @ Room 220 CD  
+3:50 - 4:05 Parallel Tracks: Generalisation of structural knowledge in the hippocampal-entorhinal system @ Room 220 CD  
+4:05 - 4:25 Parallel Tracks: @ Room 220 CDE  
+4:25 - 4:40 Parallel Tracks: A probabilistic population code based on neural samples @ Room 220 CD  
+. . . . . . . Parallel Tracks: How Does Batch Normalization Help Optimization? @ Room 220 E  
+4:40 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B and Demonstrations  
 
-## Wednesday, 5.12.2018  Invited Talks, Papers and Demonstrations
+## Wednesday, 5.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=2)
 
 8:30 - 9:20 Invited Talk:  Joelle Pineau  
 9:20 - 9:45 Coffee break  
-9:45 - 10:45 Parallel Tracks  
+9:45 - 10:05 Parallel Tracks: @ Room 220 CDE and 517 CD  
+10:05 - 10:20 Parallel Tracks: Exploration in Structured Reinforcement Learning @ Room 220 CD  K
+10:20 - 10:45 Parallel Tracks: @ Room 220 CDE and 517 CD  
 10:45 - 12:45 Posters A  and Demonstrations  
 12:45 - 2:15 Lunch on your own  
-2:15 - 3:05 Invited Talk:  Ayanna Howard  
+2:15 - 3:05 Invited Talk: Ayanna Howard: Investigations into the Human-AI Trust Phenomenon  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
-5:00 – 7:30 Posters B and Demonstrations  
+3:30 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
+3:50 - 4:05 Parallel Tracks: Policy Optimization via Importance Sampling @ Room 220 CD  
+4:05 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
+5:00 – 7:30 Posters B (**our slot!**) and Demonstrations  
 
-## Thursday, 6.12.2018  Invited Talks, Papers and Demonstrations
+## Thursday, 6.12.2018  [Invited Talks, Papers and Demonstrations](https://nips.cc/Conferences/2018/Schedule?day=3)
 
-8:30 - 9:20 Invited Talk:  David Spiegelhalter  
+8:30 - 9:20 Invited Talk: David Spiegelhalter: Making Algorithms Trustworthy  
 9:20 - 9:45 Coffee break   
-9:45 - 10:45 Parallel Tracks  
+9:45 - 10:45 Parallel Tracks: @ Room 220 CDE and 517 CD  
 10:45 - 12:45 Posters A  
 12:45 - 2:15 Lunch on your own   
-2:15 - 3:05 Invited Talk:  Kunle Olukotun  
+2:15 - 3:05 Invited Talk: Kunle Olukotun: Designing Computer Systems for Software 2.0  
 3:05 - 3:30 Coffee Break  
-3:30 - 5:00 Parallel Tracks  
+3:30 - 5:00 Parallel Tracks: @ Room 220 CDE and 517 CD  
 5:00 – 7:30 Posters B  
 
-## Friday, 7.12.2018  Workshops ([full schedule](https://nips.cc/Conferences/2018/Schedule?type=Workshop))
+## Friday, 7.12.2018  [Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop)
 
 All workshops are scheduled for: 08:00 AM -- 06:30 PM  
 10:30 – 11:00 Coffee break  
