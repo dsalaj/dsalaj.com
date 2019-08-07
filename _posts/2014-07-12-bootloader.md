@@ -23,7 +23,7 @@ Click on your answer to go to the next part:
 If you can boot to Windows next part is enabling the Windows bootloader and
 extending it so it gives you the option to boot into other operating systems. To do
 that we need to download a small bootloader modification tool called EasyBCD. You can
-download it here: [http://neosmart.net/EasyBCD/](http://neosmart.net/EasyBCD/)
+download it here: [https://neosmart.net/EasyBCD/](https://neosmart.net/EasyBCD/)
 
 To add Linux to your Windows bootloader menu, do the following steps:
 
