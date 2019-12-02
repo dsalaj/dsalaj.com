@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Personal website of Darjan Salaj, a student of Graz University of Technology
   (TU Graz) and an employee of Institut für Informationssysteme und Computer
   Medien (IICM).
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dsalaj.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://dsalaj.com/" # the base hostname & protocol for your site
 github_username:  dsalaj
 
 # Build settings
