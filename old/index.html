@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="http://getbootstrap.com/assets/ico/favicon.ico">
+
+    <title>Cover Template for Bootstrap</title>
+    
+    <!--<link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>-->
+    <!-- Bootstrap core CSS -->
+    <link href="res/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="res/cover.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <style type="text/css" id="holderjs-style"></style></head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+
+        <div class="row">
+          <div class="masthead clearfix">
+            <div class="inner">
+              <!--<h3 class="masthead-brand">Cover</h3>-->
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="#">About</a></li>
+                <li><a href="#">Work</a></li>
+                <li><a href="#">Contact</a></li>                
+              </ul>
+            </div>
+          </div>
+        </div>
+
+
+          
+      <div class="row">
+        <div class="col-md-6 example-block">
+              
+    <div id="container"></div>
+
+        </div>
+        <div class="col-md-6 example-block alt">
+        
+          <div class="cover">
+            <h1 class="cover-heading">Darjan Salaj</h1>
+            <p class="lead">Computer Science student currently residing in Graz, Austria.</p>
+          </div>        
+        
+        </div>
+      </div>
+
+        <div class="row">
+          <div class="mastfoot">
+            <div class="inner">
+              <p>&copy; Copyright 2014 <a href ="http://bipbot.com">Darjan Salaj</a></p>
+            </div>
+          </div>
+        </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="res/jquery.js"></script>
+    <script src="res/bootstrap.js"></script>
+    <script src="res/docs.js"></script>
+    
+    <script src="http://www.html5canvastutorials.com/libraries/three.min.js"></script>
+    <script defer="defer">
+      // revolutions per second
+      var angularSpeed = 0.2; 
+      var lastTime = 0;
+ 
+      // this function is executed on each animation frame
+      function animate(){
+        // update
+        var time = (new Date()).getTime();
+        var timeDiff = time - lastTime;
+        var angleChange = angularSpeed * timeDiff * 2 * Math.PI / 1000;
+        cube.rotation.y += angleChange;
+        lastTime = time;
+ 
+        // render
+        renderer.render(scene, camera);
+ 
+        // request new frame
+        requestAnimationFrame(function(){
+            animate();
+        });
+      }
+ 
+      // renderer
+      var renderer = new THREE.WebGLRenderer();
+      renderer.setSize(370, 200);
+      document.getElementById("container").appendChild(renderer.domElement);
+ 
+      // camera
+      var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 1, 1000);
+      camera.position.z = 500;
+ 
+      // scene
+      var scene = new THREE.Scene();
+                
+      // cube
+      var cube = new THREE.Mesh(new THREE.CubeGeometry(200, 200, 200), new THREE.MeshBasicMaterial({
+        wireframe: true
+      }));
+      cube.rotation.x = Math.PI * 0.04;
+      scene.add(cube);
+ 
+      // start animation
+      animate();
+    </script>    
+  
+
+</body></html>
