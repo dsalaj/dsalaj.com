@@ -7,3 +7,6 @@ https://salaj.website/* https://dsalaj.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://loving-ride-01c944.netlify.com/* https://dsalaj.com/:splat 301!
+
+# old2 archive version of site is using xhtml index
+https://dsalaj.com/old2 https://dsalaj.com/old2/index.xhtml
