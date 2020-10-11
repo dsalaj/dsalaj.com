@@ -12,3 +12,8 @@ github_username:  dsalaj
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Comment section
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSfZygIyduVO5vBTik9OlgVkRkln01z312kCIw1r0zNtk1p9rQ
+comment-read: https://docs.google.com/spreadsheets/d/1907jNfDtflLrSLoxw2kRBM5Ccs_wXhPa6fZEBC1rIes
+comment-post-fields: [ entry.558637440, entry.1076142172, entry.2116515924 ]
