@@ -67,7 +67,11 @@ ul {list-style: none;}
 
 .post img {margin: auto; display: block;}
 
-ul.posts, .post-content ul {list-style: square; padding-left: 1.2em; line-height: 1.6em;}
+ul.posts, .post-content ul {
+  list-style: square;
+  padding: 0.1em 0 1em 1.2em;
+  line-height: 1.6em;
+}
 ul.posts a {color: #333;background:inherit;padding:1px 4px;text-decoration:inherit;}
 ul.posts a:hover {color:#111;background:inherit;}
 
@@ -213,12 +217,18 @@ h1 {
 }
 h2 {
   border-bottom: 1px dotted #333;
-  font-size: 1.2em;
+  font-size: 1.4em;
   margin: 1.4em 0 0.6em;
 }
 h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1.2em 0 0.4em;
+}
+h4 {
   font-size: 1.1em;
   font-weight: bold;
+  margin: 1.1em 0 0.2em;
 }
 
 .sub-h {
@@ -226,7 +236,7 @@ h3 {
   font-weight: 400;
 }
 
-p {
+p, center {
   margin-bottom: 0.4em;
   line-height: 1.4em;
 }
@@ -422,3 +432,16 @@ hr {border-color: #333; border-style: dashed}
 pre.highlight {
     padding: 10px 0.5em;
 }
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 0;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-style: italic;
+}
+blockquote p {
+  display: inline;
+}
+
