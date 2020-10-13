@@ -13,14 +13,9 @@ group: "navigation"
   When this happens, there is a 1% chance I will put it here.
 </p>
 <ul class="posts">
-  <li>
-    <a href="https://www.notion.so/Solving-the-git-repo-binary-bloat-479b56f809c44b329530748d94fba421">
-      Solving the git repo binary bloat
-    </a>
-  </li>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url  }}">{{ post.title  }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
