@@ -445,3 +445,25 @@ blockquote p {
   display: inline;
 }
 
+// Notion styles
+code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: normal;
+  background: rgba(135,131,120,0.15);
+  color: #EB5757;
+  border-radius: 3px;
+  font-size: 85%;
+  padding: 0.2em 0.4em;
+}
+
+.page-body {
+  a {
+    color: inherit;
+    background: inherit;
+    padding: inherit;
+    border-bottom: 0.05em solid;
+    border-bottom-color: currentcolor;
+    border-color: rgba(55,53,47,0.4);
+    opacity: 0.7;
+  }
+}
