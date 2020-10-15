@@ -9,7 +9,7 @@ Update 22.08.2020: Extended the details on missing values; Replaced the first fi
 
 How to train neural networks on time-series that are non-uniformly sampled / irregularly sampled / have non-equidistant timesteps / have missing or corrupt values? In the following post, I try to summarize and point to effective methods for dealing with such data.
 
-## What is irregularly sampled data or sequence of non-equidistant steps? 📈📊
+## What is irregularly sampled data or sequence of non-equidistant steps? 📊
 
 Time series where the time between the individual steps/measurements is not constant is called non-uniform or irregularly sampled. Irregularly sampled data occurs in many fields:
 
