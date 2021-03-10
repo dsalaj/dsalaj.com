@@ -445,6 +445,18 @@ blockquote p {
   display: inline;
 }
 
+.twocols {
+  -webkit-columns: 2 200px;
+     -moz-columns: 2 200px;
+          columns: 2 200px;
+  -webkit-column-gap: 4em;
+     -moz-column-gap: 4em;
+          column-gap: 4em;
+  -webkit-column-rule: 1px dotted #ddd;
+     -moz-column-rule: 1px dotted #ddd;
+          column-rule: 1px dotted #ddd;
+}
+
 // Notion styles
 code {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -454,6 +466,10 @@ code {
   border-radius: 3px;
   font-size: 85%;
   padding: 0.2em 0.4em;
+}
+
+.highlight code {
+  background: none;
 }
 
 .page-body {
