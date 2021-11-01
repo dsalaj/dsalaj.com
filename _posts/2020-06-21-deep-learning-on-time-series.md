@@ -5,7 +5,7 @@ date:   2020-06-21 00:00:00 +0100
 ---
 
 > Update 24.06.2020: Thanks to [BadInformatics](https://news.ycombinator.com/user?id=BadInformatics) for pointing me to ODE based models and other remarks. The content was extended accordingly. <br/>
-Update 22.08.2020: Extended the details on missing values; Replaced the first figure with example and code; Added tip for Traces library.
+Update 22.08.2020: Extended the details on missing values; Replaced the first figure with example and code; Added tip for Traces library. <br/>
 Update 01.11.2021: Added Multi-Time Attention Nets and Neural Rough Differential Equations method
 
 How to train neural networks on time-series that are non-uniformly sampled / irregularly sampled / have non-equidistant timesteps / have missing or corrupt values? In the following post, I try to summarize and point to effective methods for dealing with such data.
