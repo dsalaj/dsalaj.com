@@ -6,6 +6,7 @@ date:   2020-06-21 00:00:00 +0100
 
 > Update 24.06.2020: Thanks to [BadInformatics](https://news.ycombinator.com/user?id=BadInformatics) for pointing me to ODE based models and other remarks. The content was extended accordingly. <br/>
 Update 22.08.2020: Extended the details on missing values; Replaced the first figure with example and code; Added tip for Traces library.
+Update 01.11.2021: Added Multi-Time Attention Nets and Neural Rough Differential Equations method
 
 How to train neural networks on time-series that are non-uniformly sampled / irregularly sampled / have non-equidistant timesteps / have missing or corrupt values? In the following post, I try to summarize and point to effective methods for dealing with such data.
 
@@ -79,7 +80,7 @@ For further details and more advanced applications of Lomb-Scargle method refer 
 
 ### What are interpolation networks?
 
-Researchers dealing with time series data in EHRs are developing data modeling methods that can make use of extremely sparse and irregular data. These models are usually evaluated on classification or regression tasks like predicting the onset or probability of sepsis based on the physiological measurements of a patient.
+Researchers dealing with time series data in EHRs are developing data modelling methods that can make use of extremely sparse and irregular data. These models are usually evaluated on classification or regression tasks like predicting the onset or probability of sepsis based on the physiological measurements of a patient.
 
 The common approach involves two stages where the first stage models the trajectories of the irregular and sparse physiological measurements, and the second stage is a common black box prediction neural network.
 
@@ -90,6 +91,8 @@ These models attempt to recover the missing information from time-series but onl
 For the scenarios where you have different input channels operating at different frequencies (**multi-rate multivariate time series**) you should look into \[[Che et al., 2018b](http://proceedings.mlr.press/v80/che18a.html)\] where the authors deal with this problem using the Multi-Rate Hierarchical Deep Markov Model (**MR-HDMM**).
 
 For working with physiological signals, it is common to use some form of CNN and/or RNN based architecture \[[Faust et al., 2018](https://www.sciencedirect.com/science/article/pii/S0169260718301226?casa_token=rPpzFoZxdoMAAAAA:D5P_nzHX0cwVXk9LCy_RFqHnZPDMnmik8sucMtldxHwzZCnti4WFmlwX7O4ICoVE4SMNBXdZQZA), [Fawaz et al., 2019](https://link.springer.com/article/10.1007/s10618-019-00619-1)\] like 1-D **ResNet** or architectures based on **WaveNet** sometimes combined with **LSTM** or other RNNs.
+
+For efficiently training on sparse, irregularly sampled, and multivariate data the new model called Multi-Time Attention Networks by \[[Shukla and Marlin 2021](https://openreview.net/forum?id=4c0J6lwQ4_)\] offers great results beating the SOTA benchmarks.
 
 ### What are Neural Ordinary Differential Equation models?
 
@@ -134,6 +137,8 @@ If you have a vast amount of data, it might also be fruitful to look into the me
 If you wish for more references to papers dealing with this topic, I would highly recommend the related work section of \[[Rubanova et al., 2019](http://papers.nips.cc/paper/8773-latent-ordinary-differential-equations-for-irregularly-sampled-time-series)\].
 
 For a review on **interpretability** of models for sequential data see \[[Shickel and Rashidi, 2020](https://arxiv.org/abs/2004.12524)\].
+
+For dealing with very long time series check out \[[Morrill et al. 2021](https://arxiv.org/abs/2009.08295)\] along with the code where the authors apply a unique ODE method to efficiently train RNNs on unfeasibly long time series.
 
 ## Final note 🎵
 
