@@ -16,7 +16,7 @@
 
         {% assign current = page.url | downcase | split: '/' %}
         <li><a href='/' {% if current[1] == null %}class='active'{% endif %}>about</a></li>
-        <li><a href='darjan_salaj_CV_3.pdf' >cv</a></li>
+        <li><a href='/darjan_salaj_CV_3.pdf' >cv</a></li>
         <li><a href='https://scholar.google.com/citations?user=10vTONgAAAAJ&hl=en'>scholar</a></li>
         <li><a href='https://github.com/dsalaj/' {% if current[1] == 'github' %}class='active'{% endif %}>github</a></li>
         <li><a href='/notes/' {% if current[1] == 'notes' %}class='active'{% endif %}>notes</a></li>
