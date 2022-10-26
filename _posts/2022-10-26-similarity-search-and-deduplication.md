@@ -28,7 +28,7 @@ Deduplication, in broad terms, deals with data that is already available or proc
 
 Similarity search on the other hand can be seen as a subtask within a deduplication solution, finding the same or similar entries in a data source, given a query entry or a set of attributes. The application of similarity search is broader and can often be customer-facing (B2C) through features such as document search, recommender systems, and auto-completion in data entry systems.
 
-### Challenges and constraints
+## Challenges and constraints
 
 When designing an entity matching-based solution, we have to take into account different considerations and nuanced relations between the methodology used and the business impact. The main question that needs to be considered is: do we need the matches between entities to have 100% confidence or not (hard matches vs soft matches)? Just imagine the logistical hell if the result of deduplication leads to the merging of two unrelated products into a single entity or the legal consequences of merging two different people into a single entry.
 
@@ -41,7 +41,7 @@ In practice, the different scenarios usually follow one of two patterns:
 
 We will keep these two scenarios in mind when discussing the different methodologies.
 
-### Heterogeneity of data sources
+## Heterogeneity of data sources
 
 The datasets or the collections of entity entries can be represented in various data formats. We can categorize those as:
 
@@ -71,7 +71,7 @@ Another example might be the case of working in a heterogeneous setting where we
 
 ![types of datasets](/img/2022-10-26-similarity-search-and-deduplication/image2.png)
 
-### Controlling the computational cost
+## Controlling the computational cost
 
 During deduplication, the algorithm needs to consider all pairs of entries. It is obvious that a naive comparison of every pair of entities in the data would lead to the O(n²) run time. In the context of big data, such a solution is infeasible even on relatively small datasets. To overcome this limitation there exist many techniques such as [efficient indexing](http://ceur-ws.org/Vol-789/paper14.pdf), [blocking](https://arxiv.org/ftp/arxiv/papers/1006/1006.5309.pdf) or [message passing techniques](https://arxiv.org/ftp/arxiv/papers/1103/1103.2410.pdf). These techniques reduce the search space and facilitate parallelization of entity matching algorithms and deployment on the distributed computing platforms which can significantly increase the efficiency and reduce time to solution.
 
@@ -93,7 +93,7 @@ After having the search space significantly reduced with blocking, it is still c
 
 Further optimizations can be performed on the level of query picking (sampling strategy) during the iterative deduplication process, but are costly and highly dataset-specific.
 
-### Identifier based matching
+## Identifier based matching
 
 An identifier within a data source is an attribute which already matches identical entities. Every identifier is only valid on a certain scope, which typically does not cover all the available data (otherwise the problem would be already solved). It is often the case that during entity matching one has to exploit available identifiers which are incomplete, partially available, or span different scopes of the data. For example, if the dataset consists of multiple data sources, each data source can have its own unique identifiers. Some identifiers can have scopes that cover multiple data sources but only partially.
 
@@ -105,7 +105,7 @@ Partially-available identifiers can also be used as labels for training the clas
 
 Another very impactful methodology is using the identifiers (or attributes) as exclusion criteria. Those can be used in conjunction with matching criteria in the defined order of precedence to decide if the pair of representations is a true match. One can also take it a step further and integrate the exclusion criteria in the calculation of blocking index, where the search space can be reduced even further.
 
-### Attribute-based matching
+## Attribute-based matching
 
 Entities in structured datasets have a multitude of attributes, whose relevance for entity matching is not always clear. The similarity between individual attributes of different entities can be computed but takes on a different form depending on the data type. The following figure shows examples of the data types, their features and similarity metrics that can be computed on them.
 
@@ -225,7 +225,7 @@ If no partial identifiers are present that can be used as a labeled dataset, the
 
 Independently of the dataset quality and the classifier confidence, with attribute matching, we can never be 100% confident in the matches as required for scenario 1 in the introduction. The only way to really use the attribute-based matching for scenario 1 is to have a manual validation step after the match generation. However, the uncertainty of the attribute-based matching is not an issue for scenario 2 where the output of the matching is only used as a recommendation generator in a business process or a customer experience.
 
-### Deep learning approaches
+## Deep learning approaches
 
 Despite the ongoing research [since 1946](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.36.12.1412) in different aspects and domains of entity matching, the problem is still open and does not have a satisfactory solution. The requirements of intensive human involvement in feature engineering, tuning, manual labeling, and integrating domain knowledge into the entity matching solution largely remain. With the advances in deep learning, novel methods enable approaching the entity matching problem from a different perspective and potentially increasing the performance and reducing the need for human involvement in the development process.
 
