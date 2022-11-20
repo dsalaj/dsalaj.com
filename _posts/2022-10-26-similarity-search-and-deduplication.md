@@ -4,6 +4,8 @@ title:  "Similarity search and Deduplication at scale"
 date:   2022-10-26 00:00:00 +0100
 ---
 
+[![Featured on Hacker News](https://hackerbadge.now.sh/api?id=33567123)](https://news.ycombinator.com/item?id=33567123)
+
 With the increase in the application of large-scale data collection, analytics, and accompanying big data platforms over the past decade, the necessity for reliable **entity matching** solutions is proportionately growing. The newly available data volumes need to be integrated, processed and made usable before further value can be generated.
 
 The fundamental problem of entity matching (also known as [record linkage](https://en.wikipedia.org/wiki/Record_linkage), data linkage, reference reconciliation, data matching, [entity resolution](https://dl.acm.org/doi/10.14778/2367502.2367564) just to name a few) lies at the core of many commercial and enterprise applications such as:

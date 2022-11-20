@@ -4,6 +4,8 @@ title:  "Corrupt, sparse, irregular and ugly: Deep learning on time series"
 date:   2020-06-21 00:00:00 +0100
 ---
 
+[![Featured on Hacker News](https://hackerbadge.now.sh/api?id=23591157)](https://news.ycombinator.com/item?id=23591157)
+
 > Update 24.06.2020: Thanks to [BadInformatics](https://news.ycombinator.com/user?id=BadInformatics) for pointing me to ODE based models and other remarks. The content was extended accordingly. <br/>
 Update 22.08.2020: Extended the details on missing values; Replaced the first figure with example and code; Added tip for Traces library. <br/>
 Update 01.11.2021: Added Multi-Time Attention Nets and Neural Rough Differential Equations method
